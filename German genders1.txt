@@ -1,0 +1,6 @@
+Jahr	das
+Mark	die
+Zeit	die
+Uhr	die
+Mann	der
+Haus	das
